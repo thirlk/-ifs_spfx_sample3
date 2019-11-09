@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ifs-spfx-sample-3-client-side-solution",
+    "id": "83d0007c-844f-47f4-9059-9bc193844127",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ifs-spfx-sample-3.sppkg"
+  }
+}
